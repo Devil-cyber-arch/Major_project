@@ -1,7 +1,7 @@
 welcome back to project
 
 instructions:
-create your own git hub account fork the main repository from below link
+create your own git hub account and fork(copy) the main repository from below link
 
 https://github.com/Devil-cyber-arch/Major_project.git
 
