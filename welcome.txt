@@ -1,0 +1,10 @@
+welcome back to project
+
+instructions:
+create your own git hub account fork the main repository from below link
+
+https://github.com/Devil-cyber-arch/Major_project.git
+
+create a branch in your name and contribute to project 
+send pull request to main repository.
+
